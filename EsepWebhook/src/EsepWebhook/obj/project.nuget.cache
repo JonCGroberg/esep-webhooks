@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zdOG3dTLtwYV/Dv6fQ9qTKFvAiEty6CeiIDEAZBtQK+d/zqX5soDYj+7iESzEA7u9AJiwteyusRnirzESkTcgA==",
+  "dgSpecHash": "Z89+QHoBY2GPHHUpT34rC9oGu5RG+h6zyqzxay2QeHHJHCLodWHT8f5GvoX+kmCtxf3/hoPRhCnqwf6QoteI0w==",
   "success": true,
   "projectFilePath": "/Users/jonathangroberg/code/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
   "expectedPackageFiles": [
     "/Users/jonathangroberg/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
     "/Users/jonathangroberg/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/jonathangroberg/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/jonathangroberg/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.4/microsoft.netcore.app.crossgen2.osx-arm64.8.0.4.nupkg.sha512"
   ],
   "logs": []
